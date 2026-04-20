@@ -22,8 +22,9 @@
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Solidity](https://img.shields.io/badge/-Solidity-0d1117?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-0d1117?style=flat-square&logo=ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-0d1117?style=flat-square&logo=bitcoin&logoColor=FF9900)
+![Ethereum](https://img.shields.io/badge/-Ethereum-0d1117?style=flat-square&logo=ethereum&logoColor=white)
+![Monero](https://img.shields.io/badge/-Monero-0d1117?style=flat-square&logo=monero&logoColor=FF6600)
 ![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
