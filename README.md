@@ -28,7 +28,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/-VSCode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
